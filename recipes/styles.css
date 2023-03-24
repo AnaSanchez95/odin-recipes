@@ -1,0 +1,41 @@
+body{
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;            
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+
+}
+
+img {
+    margin: auto;
+    display: block;
+    height: auto;
+    width: 500px;
+}
+
+h2 {
+    font-size: 40px;
+    background-color: rgba(235, 129, 42, 0.274);
+    position: relative;
+    left: 30px;
+    width: 1850px;
+}
+
+p {
+    position: relative;       
+    left: 50px;
+}
+
+ul{
+    position: relative;
+    left: 60px;
+    list-style: square;
+}
+
+ol {
+    position: relative;
+    left: 60px;
+}
